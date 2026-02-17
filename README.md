@@ -160,15 +160,4 @@ You can replace the top section of this README with this for a better GitHub loo
 ```html
 <div align="center">
 
-<h1>🟢 Minecraft Server Status Page</h1>
 
-<p>A lightweight & modern Minecraft server status website</p>
-
-<img src="https://img.shields.io/badge/Minecraft-Status_Page-green?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Single_File-index.html-blue?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Hosting-Free-success?style=for-the-badge" />
-
-</div>
-```
-
-This gives your GitHub page a more professional and clean design.
